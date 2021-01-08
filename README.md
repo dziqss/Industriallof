@@ -1,7 +1,7 @@
 # industriallof
 website in PHP
 
-tecgnologies:
+technologies:
 
 HTML5
 CSS3
